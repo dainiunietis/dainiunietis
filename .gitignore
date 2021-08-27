@@ -1,17 +1,21 @@
-# editors
+### editors ###
+
 .idea/
 .vscode/
 
-# Dependency directories
-node_modules/
-bower_components/
+### Dependency directories ###
 
-# SASS
+#node_modules/
+#bower_components/
+
+### SASS ###
+
 .sass-cache/
 *.css.map
 #*.sass.map
 #*.scss.map
 
-# Dreamweaver
+### Dreamweaver ###
 
-site\_notes\*
+#site\_notes\*
+
